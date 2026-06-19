@@ -6,19 +6,18 @@ i am learning **Artificial intelligence** to understand how machines think ,lear
 
 ## My Learning Journey
 
-As part of my learning journey in Github and Artificial intelligence, i am practicing how to doccument my work and share usful resources. The link below show my Github profile and a learning plartform i use
+As part of my learning journey in Github and Artificial intelligence, i am practicing how to doccument my work and share useful resources. The link below show my Github profile and a learning plartform i use
 
 [https://github.com/manu9278][https://www.linkedin.com/in/emmanuel-muchule-86a225275/]
 
 
 As part of my learning in GitHub and programming fundamentals, I am practicing how to use Markdown lists to organize information clearly. Below are some of the things I want to learn and the steps involved in making a commit in Git.
 
-</> 
 ## My learning Goals
 - Artificial Intelligence
 - Git and GitHub
 - Data Analysis
-- 
+  
 ## Steps to Make a Git Commit
 
 1. Add changes using  "git add"
@@ -40,14 +39,14 @@ As part of my learning journey in GitHub and technology, I am tracking my progre
 
 - [x] Learn what GitHub is
 - [x] Create a repository
-- [ ] Learn how to make commits
+- [x] Learn how to make commits
 - [ ] Learn how to use branches
 - [ ] Practice Markdown formatting
 - [ ] Upload a project to GitHub
 ```python
 print("I am learning artificial intelligence")
 ```
-</>markdown 
+
 > Success in learning comes from consistency, not speed. Small daily progress leads to big results over time.
 ## About Me
 
