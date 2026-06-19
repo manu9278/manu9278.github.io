@@ -14,9 +14,9 @@ As part of my learning journey in Github and Artificial intelligence, i am pract
 As part of my learning in GitHub and programming fundamentals, I am practicing how to use Markdown lists to organize information clearly. Below are some of the things I want to learn and the steps involved in making a commit in Git.
 
 ## My learning Goals
-- Artificial Intelligence
-- Git and GitHub
-- Data Analysis
+Artificial Intelligence
+Git and GitHub
+Data Analysis
   
 ## Steps to Make a Git Commit
 
