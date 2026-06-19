@@ -1,13 +1,23 @@
-</> markdown
-##Airtificial Intelligenge & Machine learning 
-###Season 11
-i am learning **airtificial intelligence** to understand how machines think ,learn and solves problems *i expect to gain skills* in using ` AI TOOLS`  understanding how they work , and applying them to real-life challanges such as automamtion data analysis and decision making
-</> markdown
-as part of my learning journey in Github and Artificial intelligence, i am practicing how to doccument my work and share usful resources. The link below show my Github profile and a learning plartform i use 
+</> md
+
+#Airtificial Intelligenge & Machine learning#
+
+###Season 
+
+## About My Learning
+
+i am learning **Artificial intelligence** to understand how machines think ,learn and solves problems *i expect to gain skills* in using ` AI TOOLS`  understanding how they work , and applying them to real-life challanges such as automamtion data analysis and decision making.
+
+## My Learning Journey
+
+As part of my learning journey in Github and Artificial intelligence, i am practicing how to doccument my work and share usful resources. The link below show my Github profile and a learning plartform i use
+
 [https://github.com/manu9278][https://www.linkedin.com/in/emmanuel-muchule-86a225275/]
-</> markdown
+
+
 As part of my learning in GitHub and programming fundamentals, I am practicing how to use Markdown lists to organize information clearly. Below are some of the things I want to learn and the steps involved in making a commit in Git.
-</> markdown
+
+</> 
 ## My learning Goals
 - Artificial Intelligence
 - Git and GitHub
@@ -15,21 +25,21 @@ As part of my learning in GitHub and programming fundamentals, I am practicing h
 - 
 ## Steps to Make a Git Commit
 
-1. Add changes using git add
+1. Add changes using  "git add"
 2. Commit changes using git commit -m "message"
-3. Push changes to GitHub using git push
-</> Markdown
+3. Push changes to GitHub using "git push"
+
 As part of my learning in GitHub and technology tools, I am exploring different platforms that help in coding, collaboration, and learning. The table below shows some tools I use or want to learn, their purpose, and useful links.
 
-</> Markdown 
-|**Tool**  |**purpose**                          |**link**|
+
+|Tool      |purpose                                |    link     |
 |----------|-------------------------------------|----------|
 | Github  |Version control & code hosting|       |[https://github.com] |
 | Vs Code | writing and editing code             |[https://code.visualstudio.com] |
 |Chatbot  | AI tools used for answering questions and assisting users|  [https://chat.openai.com] |
-</> markdown 
+
 As part of my learning journey in GitHub and technology, I am tracking my progress using a task list to show what I have completed and what I still need to work on.
-</> markdown 
+ 
 ## Learning Progress Checklist
 
 - [x] Learn what GitHub is
