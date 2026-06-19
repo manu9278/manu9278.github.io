@@ -1,8 +1,4 @@
-</> md
-
-#Airtificial Intelligenge & Machine learning#
-
-###Season 
+</>  
 
 ## About My Learning
 
